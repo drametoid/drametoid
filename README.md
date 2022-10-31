@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @drametoid
-- 👀 I’m interested in Automotive Software | Containerization | Embedded DIYs
-- 🌱 I’m currently learning AI for self-driving cars | Competitive Coding
-- 💞️ I’m looking to collaborate on FOSS in automotive domain 
-- 📫 [Mail Me](mailto:bhatiashubham.edu@gmail.com) | [Twitter](https://twitter.com/drametoofficial)
+- 👀 I’m a Software Developer | C++ | Python | Linux | Embedded | Cloud | Data Science 
+- 🌱 I’m currently learning - AI for self-driving cars | Game Development | Competitive Coding
+- 💞️ I’m available to collaborate on FOSS in automotive/gaming/navigation domain 
+- 📫 [Mail Me](mailto:bhatiashubham.work@gmail.com) | [Twitter](https://twitter.com/drametoofficial)
 
 <!---
 drametoid/drametoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
