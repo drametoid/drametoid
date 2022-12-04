@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drametoid
 - 👀 I’m a Software Developer | C++ | Python | Linux | Embedded | Cloud | Data Science 
-- 🌱 I’m currently learning - AI for self-driving cars | Game Development | Competitive Coding
+- 🌱 I’m currently learning - Machine Learning | Big Data | Game Development | Competitive Coding
 - 💞️ I’m available to collaborate on FOSS in automotive/gaming/navigation domain 
 - 📫 [Mail Me](mailto:bhatiashubham.work@gmail.com) | [Twitter](https://twitter.com/drametoofficial)
 
